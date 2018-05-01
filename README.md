@@ -1,6 +1,6 @@
 # OptikFormOkuma
 
-##### Proje resimdeki optik form dışındaki başka formları okumuyor.
+##### Proje, resimdeki optik form dışındaki başka formları okumuyor.
 
 ##### Okunan cavapları doğru,yanlış,boş geçersiz olarak sınıflandırabiliyor.
 
