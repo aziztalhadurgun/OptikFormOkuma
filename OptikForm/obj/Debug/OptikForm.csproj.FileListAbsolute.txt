@@ -1,0 +1,89 @@
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikForm\OptikForm\bin\Debug\OptikForm.exe.config
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikForm\OptikForm\bin\Debug\OptikForm.exe
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikForm\OptikForm\bin\Debug\OptikForm.pdb
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikForm\OptikForm\obj\Debug\OptikForm.csprojResolveAssemblyReference.cache
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikForm\OptikForm\obj\Debug\OptikForm.Form1.resources
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikForm\OptikForm\obj\Debug\OptikForm.Properties.Resources.resources
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikForm\OptikForm\obj\Debug\OptikForm.csproj.GenerateResource.Cache
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikForm\OptikForm\obj\Debug\OptikForm.csproj.CoreCompileInputs.cache
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikForm\OptikForm\obj\Debug\OptikForm.exe
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikForm\OptikForm\obj\Debug\OptikForm.pdb
+C:\Users\CBOX\Desktop\OptikForm\OptikForm\bin\Debug\OptikForm.exe.config
+C:\Users\CBOX\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.exe
+C:\Users\CBOX\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.pdb
+C:\Users\CBOX\Desktop\OptikForm\OptikForm\bin\Debug\OptikForm.exe
+C:\Users\CBOX\Desktop\OptikForm\OptikForm\bin\Debug\OptikForm.pdb
+C:\Users\CBOX\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.csprojResolveAssemblyReference.cache
+C:\Users\CBOX\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.Form1.resources
+C:\Users\CBOX\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.Properties.Resources.resources
+C:\Users\CBOX\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.csproj.GenerateResource.Cache
+C:\Users\alido\Desktop\OptikForm\OptikForm\bin\Debug\OptikForm.exe.config
+C:\Users\alido\Desktop\OptikForm\OptikForm\bin\Debug\OptikForm.exe
+C:\Users\alido\Desktop\OptikForm\OptikForm\bin\Debug\OptikForm.pdb
+C:\Users\alido\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.csprojResolveAssemblyReference.cache
+C:\Users\alido\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.Form1.resources
+C:\Users\alido\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.Properties.Resources.resources
+C:\Users\alido\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.csproj.GenerateResource.Cache
+C:\Users\alido\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.csproj.CoreCompileInputs.cache
+C:\Users\alido\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.exe
+C:\Users\alido\Desktop\OptikForm\OptikForm\obj\Debug\OptikForm.pdb
+E:\Dosyalar\Ders\17_18_GüzDönemi\5_Görüntüİşleme\Proje\OptikForm\OptikForm\bin\Debug\OptikForm.exe.config
+E:\Dosyalar\Ders\17_18_GüzDönemi\5_Görüntüİşleme\Proje\OptikForm\OptikForm\bin\Debug\OptikForm.exe
+E:\Dosyalar\Ders\17_18_GüzDönemi\5_Görüntüİşleme\Proje\OptikForm\OptikForm\bin\Debug\OptikForm.pdb
+E:\Dosyalar\Ders\17_18_GüzDönemi\5_Görüntüİşleme\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.csprojResolveAssemblyReference.cache
+E:\Dosyalar\Ders\17_18_GüzDönemi\5_Görüntüİşleme\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.Properties.Resources.resources
+E:\Dosyalar\Ders\17_18_GüzDönemi\5_Görüntüİşleme\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.csproj.GenerateResource.Cache
+E:\Dosyalar\Ders\17_18_GüzDönemi\5_Görüntüİşleme\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.csproj.CoreCompileInputs.cache
+E:\Dosyalar\Ders\17_18_GüzDönemi\5_Görüntüİşleme\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.exe
+E:\Dosyalar\Ders\17_18_GüzDönemi\5_Görüntüİşleme\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.pdb
+E:\Dosyalar\Ders\17_18_GüzDönemi\5_Görüntüİşleme\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.frmAnaEkran.resources
+E:\Dosyalar\Ders\17_18_GüzDönemi\5_Görüntüİşleme\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.frmOptikOkuma.resources
+E:\Dosyalar\Ders\17_18_GüzDönemi\5_Görüntüİşleme\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.frmEskiKayitlar.resources
+C:\Users\alido\Desktop\Proje\OptikForm\OptikForm\bin\Debug\OptikForm.exe.config
+C:\Users\alido\Desktop\Proje\OptikForm\OptikForm\bin\Debug\OptikForm.exe
+C:\Users\alido\Desktop\Proje\OptikForm\OptikForm\bin\Debug\OptikForm.pdb
+C:\Users\alido\Desktop\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.csprojResolveAssemblyReference.cache
+C:\Users\alido\Desktop\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.frmEskiKayitlar.resources
+C:\Users\alido\Desktop\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.frmOptikOkuma.resources
+C:\Users\alido\Desktop\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.frmAnaEkran.resources
+C:\Users\alido\Desktop\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.Properties.Resources.resources
+C:\Users\alido\Desktop\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.csproj.GenerateResource.Cache
+C:\Users\alido\Desktop\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.csproj.CoreCompileInputs.cache
+C:\Users\alido\Desktop\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.exe
+C:\Users\alido\Desktop\Proje\OptikForm\OptikForm\obj\Debug\OptikForm.pdb
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikProjeBotan\OptikForm\OptikForm\bin\Debug\OptikForm.exe.config
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikProjeBotan\OptikForm\OptikForm\bin\Debug\OptikForm.exe
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikProjeBotan\OptikForm\OptikForm\bin\Debug\OptikForm.pdb
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikProjeBotan\OptikForm\OptikForm\obj\Debug\OptikForm.csprojResolveAssemblyReference.cache
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikProjeBotan\OptikForm\OptikForm\obj\Debug\OptikForm.frmEskiKayitlar.resources
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikProjeBotan\OptikForm\OptikForm\obj\Debug\OptikForm.frmOptikOkuma.resources
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikProjeBotan\OptikForm\OptikForm\obj\Debug\OptikForm.frmAnaEkran.resources
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikProjeBotan\OptikForm\OptikForm\obj\Debug\OptikForm.Properties.Resources.resources
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikProjeBotan\OptikForm\OptikForm\obj\Debug\OptikForm.csproj.GenerateResource.Cache
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikProjeBotan\OptikForm\OptikForm\obj\Debug\OptikForm.csproj.CoreCompileInputs.cache
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikProjeBotan\OptikForm\OptikForm\obj\Debug\OptikForm.exe
+C:\Users\alido\Documents\Visual Studio 2017\Projects\OptikProjeBotan\OptikForm\OptikForm\obj\Debug\OptikForm.pdb
+C:\Users\btnky\Downloads\Compressed\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.csprojResolveAssemblyReference.cache
+C:\Users\btnky\Downloads\Compressed\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.frmEskiKayitlar.resources
+C:\Users\btnky\Downloads\Compressed\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.frmOptikOkuma.resources
+C:\Users\btnky\Downloads\Compressed\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.frmAnaEkran.resources
+C:\Users\btnky\Downloads\Compressed\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.Properties.Resources.resources
+C:\Users\btnky\Downloads\Compressed\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.csproj.GenerateResource.Cache
+C:\Users\btnky\Downloads\Compressed\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.csproj.CoreCompileInputs.cache
+C:\Users\btnky\Downloads\Compressed\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.exe
+C:\Users\btnky\Downloads\Compressed\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.pdb
+C:\Users\btnky\Downloads\Compressed\OptikForm_20.12.2017\OptikForm\bin\Debug\OptikForm.exe.config
+C:\Users\btnky\Downloads\Compressed\OptikForm_20.12.2017\OptikForm\bin\Debug\OptikForm.exe
+C:\Users\btnky\Downloads\Compressed\OptikForm_20.12.2017\OptikForm\bin\Debug\OptikForm.pdb
+C:\Users\azizt\Desktop\OptikForm_20.12.2017\OptikForm\bin\Debug\OptikForm.exe.config
+C:\Users\azizt\Desktop\OptikForm_20.12.2017\OptikForm\bin\Debug\OptikForm.exe
+C:\Users\azizt\Desktop\OptikForm_20.12.2017\OptikForm\bin\Debug\OptikForm.pdb
+C:\Users\azizt\Desktop\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.csprojResolveAssemblyReference.cache
+C:\Users\azizt\Desktop\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.frmEskiKayitlar.resources
+C:\Users\azizt\Desktop\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.frmOptikOkuma.resources
+C:\Users\azizt\Desktop\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.frmAnaEkran.resources
+C:\Users\azizt\Desktop\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.Properties.Resources.resources
+C:\Users\azizt\Desktop\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.csproj.GenerateResource.Cache
+C:\Users\azizt\Desktop\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.csproj.CoreCompileInputs.cache
+C:\Users\azizt\Desktop\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.exe
+C:\Users\azizt\Desktop\OptikForm_20.12.2017\OptikForm\obj\Debug\OptikForm.pdb
